@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Countdown timer</string>
+    <string name="button_start">Начать отсчёт</string>
+    <string name="title_text">Введите дату и время точки отсчёта</string>
+</resources>
